@@ -1,0 +1,11 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (лаба 2.2.vcxproj, лаба 4.1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  лаба 5.cpp
+C:\Users\bater\Desktop\Прога\лаба 5\лаба 2.2\melee.h(21,40): warning C4042: mc: имеет недопустимый класс хранения
+C:\Users\bater\Desktop\Прога\лаба 5\лаба 2.2\weapon.h(22,41): warning C4042: wc: имеет недопустимый класс хранения
+C:\Users\bater\Desktop\Прога\лаба 5\лаба 2.2\лаба 5.cpp(82,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "overload_plusplus"
+C:\Users\bater\Desktop\Прога\лаба 5\лаба 2.2\лаба 5.cpp(85,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "overload_plusplus"
+C:\Users\bater\Desktop\Прога\лаба 5\лаба 2.2\лаба 5.cpp(93,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "overload_plus"
+C:\Users\bater\Desktop\Прога\лаба 5\лаба 2.2\лаба 5.cpp(69,14): warning C4101: summa2: неиспользованная локальная переменная
+C:\Users\bater\Desktop\Прога\лаба 5\лаба 2.2\лаба 5.cpp(69,6): warning C4101: summa1: неиспользованная локальная переменная
+C:\Users\bater\Desktop\Прога\лаба 5\лаба 2.2\лаба 5.cpp(120,22): warning C4101: s: неиспользованная локальная переменная
+  лаба 2.2.vcxproj -> C:\Users\bater\Desktop\Прога\лаба 5\x64\Debug\лаба 5.exe
